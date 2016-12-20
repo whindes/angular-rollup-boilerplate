@@ -5,7 +5,7 @@
 * [Project Architecture](#anchor3)
 * [**How to develop using this architecture?**](#anchor4)
 
-# <a name="anchor0"></a>Angular + Stylus + rollup boilerplate
+## <a name="anchor0"></a>Angular + Stylus + rollup boilerplate
 This is a boilerplate using the following tools:
 * Angular v1.6;
 * ESLint (AirBnb based) v3.12;
