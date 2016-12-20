@@ -1,0 +1,46 @@
+{
+  "name": "ionicgadgets",
+  "version": "1.0.0",
+  "description": "I'm studying ionic/cordova/angularjs. So i decided to create some gadgets to learn how to use both things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "rollup -c --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablohpsilva/ionicGadgets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablohpsilva/ionicGadgets/issues"
+  },
+  "homepage": "https://github.com/pablohpsilva/ionicGadgets#readme",
+  "dependencies": {
+    "angular": "^1.6.0",
+    "rollup-plugin-eslint": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "babel-preset-es2015-rollup": "^3.0.0",
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb-base": "^11.0.0",
+    "eslint-friendly-formatter": "^2.0.6",
+    "eslint-plugin-html": "^1.7.0",
+    "eslint-plugin-import": "^2.2.0",
+    "path": "^0.12.7",
+    "rollup": "^0.37.0",
+    "rollup-plugin-babel": "^2.7.1",
+    "rollup-plugin-commonjs": "^6.0.0",
+    "rollup-plugin-html": "^0.2.1",
+    "rollup-plugin-livereload": "^0.4.0",
+    "rollup-plugin-node-resolve": "^2.0.0",
+    "rollup-plugin-sass": "^0.4.8",
+    "rollup-plugin-serve": "^0.1.0",
+    "rollup-plugin-stylus": "^1.0.3",
+    "rollup-plugin-stylus-css-modules": "^1.2.2",
+    "rollup-plugin-uglify": "^1.0.1",
+    "rollup-watch": "^2.5.0"
+  }
+}
