@@ -52,7 +52,6 @@ npm run dev
 │   │   ├── directives
 │   │   ├── services
 │   │   ├── main.js
-│   │   └── services
 │   └── stylus
 │       ├── main.styl
 │       └── reset.styl
